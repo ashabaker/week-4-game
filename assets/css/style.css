@@ -1,0 +1,22 @@
+
+#body {
+  background-color: hotpink;
+}
+#gemframe {
+  text-align: center;
+background-color: black;
+}
+
+#gamename {
+  padding: 0px 50px 20px 50px;
+  margin: 20px;
+}
+.jumbotron {
+  text-size: 12px;
+
+}
+.gem{
+	height: 50px;
+	margin: 20px;
+  align: center;
+}
